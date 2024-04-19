@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/advent_pro_bold</item>
+        <item>@font/advent_pro_semibold</item>
+        <item>@font/advent_pro_thin</item>
+        <item>@font/jim_nightshade</item>
+        <item>@font/montserrat_semibold</item>
+        <item>@font/proza_libre</item>
+        <item>@font/proza_libre_medium</item>
+        <item>@font/uncial_antiqua</item>
+    </array>
+</resources>
